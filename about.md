@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm kside.
+### contact me
 
-### More Information
-
-Yeah, no.
-
-### Contact me
-
-Nope.
+nope.
